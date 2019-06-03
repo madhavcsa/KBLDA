@@ -9,7 +9,7 @@ To get the project's source code, clone the github repository:
     
  ### Dependencies:
 
-Please install the following dependencies for SCITF to run:
+Please install the following dependencies for KBLDA to run:
 numpy, scipy, scikit-learn, joblib.
 
 
